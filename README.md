@@ -85,7 +85,9 @@ The models were evaluated using:
 ---
 ## Project Structure
 
-'''
+## Project Structure
+
+```
 Credit_Scoring_Model
 │
 ├── dataset
